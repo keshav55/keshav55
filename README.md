@@ -9,19 +9,19 @@
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-> Been building natural language interfaces to computers since 2014. Now doing it with AI.
+> To build in a state of flow is a great joy in life. 
 
 ## Now
 
-- 🏗️ **[Atris](https://github.com/atrislabs)** — AI workspace operating system. Skills, agents, memory, planning — all from the terminal.
-- 🏈 **[vibe-check](https://github.com/keshav55/vibe-check)** — Security scanner for agentic engineering. `npm i -g @atrislabs/vibe-check`
-- ✍️ **[writing_team](https://github.com/keshav55/writing_team)** — Multi-agent writing workflow powered by Claude Code.
+- 🏗️ **[Atris](https://github.com/atrislabs)** — agent operating system. Skills, agents, memory, planning. 
+- 🏈 **[vibe-check](https://github.com/keshav55/vibe-check)** — security scanner for agentic engineering. `npm i -g @atrislabs/vibe-check`
+- ✍️ **[writing-team](https://github.com/keshav55/writing_team)** — multi agent writing team 
 
 ## Before
 
 - 💬 **[Eduable](https://github.com/keshav55/Eduable)** — Natural language to terminal commands using Wit.ai. Won CodeDay SF, 2014.
 - 📱 **[TextShell](https://github.com/keshav55/textshell)** — A shell over SMS. Text commands, get real data back — no WiFi needed. 2nd Place, HSHacks 2014.
-- 🌐 **[Comet](https://github.com/atrislabs)** — Web3 community platform. React SDK, Solidity smart contracts, iOS app. 2020–2022.
+
 
 ## Connect
 
